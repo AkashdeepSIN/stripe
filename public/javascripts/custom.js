@@ -1,4 +1,4 @@
- Stripe.setPublishableKey('pk_test_clEWhP5puiZZYj6l4KpoGlp4');
+ Stripe.setPublishableKey('pk_test_AvPz39K9F1qoSOULFMmZGUDN');
 
     var $btn = $('#submit');
     $btn.on('click', function() {
